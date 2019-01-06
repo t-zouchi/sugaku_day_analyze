@@ -1,2 +1,2 @@
-# sugaku_day_analyse
+# sugaku_day_analyze
 数学デー同人誌の記事作成時に集計したデータです。個人情報は削除してあります。
